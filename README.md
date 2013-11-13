@@ -1,4 +1,4 @@
-homeblabber
+HomeBlabber
 ===========
 
-HomeTasktic APIs
+App built @ Launch Hackathon 2013: HomeTasktic APIs
